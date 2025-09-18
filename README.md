@@ -41,4 +41,6 @@ By following these guidelines, you can significantly reduce the risk of falling 
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/templates/bright.webp" style="max-width: 100%;"></a>
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/templates/prefs.webp" style="max-width: 100%;"></a>
 
-Update:  14.09.2025 link is back online and functioning
+
+
+Update:  18 September
